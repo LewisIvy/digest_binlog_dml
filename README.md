@@ -9,4 +9,3 @@
     423 ### INSERT INTO db2.tb1
     203 ### UPDATE db3.tb2
     176 ### UPDATE db4.tb1
-    
